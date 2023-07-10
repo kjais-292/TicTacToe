@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kjais-292/TicTacToe/static/css/main.9444d74c.css",
+    "main.js": "/kjais-292/TicTacToe/static/js/main.2e822e65.js",
+    "index.html": "/kjais-292/TicTacToe/index.html",
+    "main.9444d74c.css.map": "/kjais-292/TicTacToe/static/css/main.9444d74c.css.map",
+    "main.2e822e65.js.map": "/kjais-292/TicTacToe/static/js/main.2e822e65.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9444d74c.css",
+    "static/js/main.2e822e65.js"
+  ]
+}
