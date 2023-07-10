@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Khwaab_Portfolio/static/css/main.9444d74c.css",
-    "main.js": "/Khwaab_Portfolio/static/js/main.2e822e65.js",
-    "index.html": "/Khwaab_Portfolio/index.html",
-    "main.9444d74c.css.map": "/Khwaab_Portfolio/static/css/main.9444d74c.css.map",
-    "main.2e822e65.js.map": "/Khwaab_Portfolio/static/js/main.2e822e65.js.map"
+    "main.css": "/TicTacToe/static/css/main.9444d74c.css",
+    "main.js": "/TicTacToe/static/js/main.2e822e65.js",
+    "index.html": "/TicTacToe/index.html",
+    "main.9444d74c.css.map": "/TicTacToe/static/css/main.9444d74c.css.map",
+    "main.2e822e65.js.map": "/TicTacToe/static/js/main.2e822e65.js.map"
   },
   "entrypoints": [
     "static/css/main.9444d74c.css",
